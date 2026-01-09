@@ -1,5 +1,8 @@
 # QKD-Forensic Dataset V2.0  
 **Anomaly and Intrusion Detection in Quantum Key Distribution Using Integrated Quantum and Classical Measurements**
+**Download:**
+
+DOI: 10.5281/zenodo.18195501
 
 ---
 
@@ -150,8 +153,6 @@ This project is released under the license specified in the `LICENSE` file.
 
 ---
 
-## Contact
-
 ## Contact 
 **Madhab Chandra Das** 
 Graduate Research Assistant, Digital & Cyber Forensics
@@ -170,3 +171,4 @@ Future releases may include:
 - Extended feature sets
 - Advanced attack models
 - SCI-journal dataset extensions
+
